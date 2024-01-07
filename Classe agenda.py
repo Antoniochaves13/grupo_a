@@ -8,6 +8,7 @@ class Agenda():
         self.cod_post=cod_post
         self.contatos = {}
         self.endereco = endereco
+        
 
     def adicionar(self):
         self.contatos[self.nome] = self.numero,self.email,self.cod_post

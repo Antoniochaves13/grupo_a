@@ -6,5 +6,4 @@ class Endereco():
         self.provincia = provincia
         self.pais = pais
         self.bi = bi
-        self.nif = nif 
-self.nif
+        self.nif = nif
